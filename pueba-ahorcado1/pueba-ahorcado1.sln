@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "pueba-ahorcado1", "pueba-ahorcado1\pueba-ahorcado1.vbproj", "{C6F38DE9-2689-480C-80A8-1B64A27C912C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ahorcadonro2", "ahorcadonro2\ahorcadonro2.vbproj", "{F8EEB80A-91B9-4E94-87E1-E67F5582FEF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F38DE9-2689-480C-80A8-1B64A27C912C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F38DE9-2689-480C-80A8-1B64A27C912C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F38DE9-2689-480C-80A8-1B64A27C912C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F38DE9-2689-480C-80A8-1B64A27C912C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EEB80A-91B9-4E94-87E1-E67F5582FEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EEB80A-91B9-4E94-87E1-E67F5582FEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EEB80A-91B9-4E94-87E1-E67F5582FEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EEB80A-91B9-4E94-87E1-E67F5582FEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F9832F0-8558-4322-8E62-E9D610E3F9AA}
+	EndGlobalSection
+EndGlobal
